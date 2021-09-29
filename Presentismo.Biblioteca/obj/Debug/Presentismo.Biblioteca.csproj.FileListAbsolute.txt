@@ -1,0 +1,9 @@
+C:\Users\kta_r\Documents\GitHub\Presentismo\Presentismo.Biblioteca\obj\Debug\Presentismo.Biblioteca.csproj.AssemblyReference.cache
+C:\Users\kta_r\Documents\GitHub\Presentismo\Presentismo.Biblioteca\obj\Debug\Presentismo.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\kta_r\Documents\GitHub\Presentismo\Presentismo.Biblioteca\bin\Debug\Presentismo.Biblioteca.dll
+C:\Users\kta_r\Documents\GitHub\Presentismo\Presentismo.Biblioteca\bin\Debug\Presentismo.Biblioteca.pdb
+C:\Users\kta_r\Documents\GitHub\Presentismo\Presentismo.Biblioteca\obj\Debug\Presentismo.Biblioteca.dll
+C:\Users\kta_r\Documents\GitHub\Presentismo\Presentismo.Biblioteca\obj\Debug\Presentismo.Biblioteca.pdb
+C:\Users\kta_r\Documents\GitHub\Presentismo\Presentismo.Biblioteca\bin\Debug\AsistenciaExistenteEseDiaException.dll
+C:\Users\kta_r\Documents\GitHub\Presentismo\Presentismo.Biblioteca\bin\Debug\AsistenciaExistenteEseDiaException.pdb
+C:\Users\kta_r\Documents\GitHub\Presentismo\Presentismo.Biblioteca\obj\Debug\Presentismo.Biblioteca.csproj.CopyComplete

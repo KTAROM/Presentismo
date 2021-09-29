@@ -1,0 +1,6 @@
+C:\Users\kta_r\Documents\GitHub\Presentismo\AsistenciaExistenteEseDiaException\bin\Debug\AsistenciaExistenteEseDiaException.dll
+C:\Users\kta_r\Documents\GitHub\Presentismo\AsistenciaExistenteEseDiaException\bin\Debug\AsistenciaExistenteEseDiaException.pdb
+C:\Users\kta_r\Documents\GitHub\Presentismo\AsistenciaExistenteEseDiaException\obj\Debug\AsistenciaExistenteEseDiaException.csproj.AssemblyReference.cache
+C:\Users\kta_r\Documents\GitHub\Presentismo\AsistenciaExistenteEseDiaException\obj\Debug\AsistenciaExistenteEseDiaException.csproj.CoreCompileInputs.cache
+C:\Users\kta_r\Documents\GitHub\Presentismo\AsistenciaExistenteEseDiaException\obj\Debug\AsistenciaExistenteEseDiaException.dll
+C:\Users\kta_r\Documents\GitHub\Presentismo\AsistenciaExistenteEseDiaException\obj\Debug\AsistenciaExistenteEseDiaException.pdb
